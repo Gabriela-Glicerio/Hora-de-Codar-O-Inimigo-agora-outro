@@ -81,6 +81,6 @@ java Retangulo
 - **Ex. 24:** considera 160 horas regulares por mês (40 h × 4 semanas). As horas excedentes são pagas com acréscimo de 50%.
 - **Ex. 25:** a Saída 1 inverte todo o vetor. A Saída 2 inverte separando por tipo (números e depois letras).
 
-## Autor(a)
+## Dev
 
-Atividade desenvolvida para o curso de lógica de programação em Java.
+Atividade desenvolvida para as aulas do gabriel
